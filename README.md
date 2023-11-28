@@ -112,6 +112,8 @@ Full Subtractor
 
 Hall Subtractor
 
+
+
 ![Uploading image.png…]()
 
 
