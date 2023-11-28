@@ -114,7 +114,7 @@ Hall Subtractor
 
 
 
-![Uploading image.png…]()
+![image](https://github.com/ROLEX2616/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149988469/2d0998a4-d81d-4664-8c36-4576ddab41b0)
 
 
 
@@ -124,7 +124,8 @@ Hall Subtractor
 Full Subtractor
 
 
-![Uploading image.png…]()
+![image](https://github.com/ROLEX2616/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149988469/d79c0915-38ed-46b2-ab4e-3d796505abd6)
+
 
 
 
